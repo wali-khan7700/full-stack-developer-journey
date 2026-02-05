@@ -6,6 +6,9 @@ This repository documents my daily learning journey as I work towards becoming a
 - HTML/ → HTML concepts with examples
 - CSS/ → Styling and layouts
 - JS/ → JavaScript basics and projects
+- Backend Development
+- Deployment
+
 
 ## How to use this repo
 Each folder represents a topic.
@@ -16,3 +19,15 @@ Inside each topic, you'll find:
 ## Progress
 - Day 1: HTML Boilerplate
 
+## 🎯 Goals
+
+- Learn HTML
+- Learn CSS
+- Learn JavaScript
+- Backend Development
+- Deployment
+
+
+## 👨‍💻 Author
+
+Wali Khan
