@@ -17,7 +17,8 @@ Inside each topic, you'll find:
 - README.md (short explanation)
 
 ## Progress
-- Day 1: HTML Boilerplate
+- Day 1: HTML Basic Structure
+- Day 2: HTML Attributes
 
 ## 🎯 Goals
 
