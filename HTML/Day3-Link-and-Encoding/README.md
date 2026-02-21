@@ -6,14 +6,14 @@
 
 ---
 
+## 🔹 Link Element
+Link element mainly used to connect external CSS file to HTML.
+
+<link rel="stylesheet"  href="style.css">
+
 ## 🔹 Character Encoding
 Character encoding tells the browser how text should be displayed.
 
 ```html
 <meta charset="UTF-8">
 
-## 🔹 Link Element
-Link element mainly used to connect external CSS file to HTML.
-
-```html
-<link rel="stylesheet"  href="style.css">
