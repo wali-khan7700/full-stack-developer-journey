@@ -19,6 +19,7 @@ Inside each topic, you'll find:
 ## Progress
 - Day 1: HTML Basic Structure
 - Day 2: HTML Attributes
+- Day 3: HTML Link element and Character Encoding
 
 ## 🎯 Goals
 
